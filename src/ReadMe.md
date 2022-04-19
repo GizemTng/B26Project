@@ -1,4 +1,3 @@
 Java Version SE 8
-Added more decs from INTELLIJ
-
-This file from local
+added more decs from remote
+from INTELLIJ
